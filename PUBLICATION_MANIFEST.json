@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-07",
+  "title": "Natural language SQL academic report",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "README.md",
+      "sha256": "6b223cc73b5fde67e43fefae2281a0e1d3e643a8790ec37eabc8596a4459ed25",
+      "bytes": 398
+    },
+    {
+      "path": "review.md",
+      "sha256": "c7880befd3a3e90209fa7fc17d6f9064f0a49de661eee73a8f5641f6da8c8ac4",
+      "bytes": 5381
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "2366f953c41ea0586555cff78721e50a82e4f6aba743e0c987422e3a27e3af8d",
+      "bytes": 629
+    }
+  ]
+}
