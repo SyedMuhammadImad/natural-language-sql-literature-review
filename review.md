@@ -1,6 +1,6 @@
 # Natural language interfaces to SQL: a focused literature review
 
-Coursework team recorded in the original documents: Syed Muhammad Imad (F2023376179), Abdul Momin (F2023376153), Fayz Liaqat (F2023376090), and Talha Kamran (F2023376156). This public edition was revised on 7 October 2026 from the original coursework topic, with checked primary references. It is a completed literature review; it contains no implementation, fine-tuned model, deployment, or newly measured benchmark result.
+project team recorded in the original documents: Syed Muhammad Imad (Syed Muhammad Imad), Abdul Momin (F2023376153), Fayz Liaqat (F2023376090), and Talha Kamran (F2023376156). This public edition was revised on 7 October 2026 from the original project topic, with checked primary references. It is a completed literature review; it contains no implementation, fine-tuned model, deployment, or newly measured benchmark result.
 
 ## Scope and method
 
@@ -27,11 +27,11 @@ The review examines four foundational contributions from 2018–2023: cross-sche
 
 ## Design implications
 
-The following are recommendations derived from the comparison, not claims that the coursework implemented them. A future interface should provide explicit schema context, evaluate on held-out databases, separate syntactic validity from answer correctness, and report execution behavior alongside accuracy. Ambiguous questions need clarification or abstention rather than forced SQL. Authorization and database access controls belong outside the model. Evaluation should declare dataset version, split, prompt/model configuration, execution limits and the definitions of each metric.
+The following are recommendations derived from the comparison, not claims that the project implemented them. A future interface should provide explicit schema context, evaluate on held-out databases, separate syntactic validity from answer correctness, and report execution behavior alongside accuracy. Ambiguous questions need clarification or abstention rather than forced SQL. Authorization and database access controls belong outside the model. Evaluation should declare dataset version, split, prompt/model configuration, execution limits and the definitions of each metric.
 
 ## Limitations and conclusion
 
-This review supports a clear division of concerns: benchmark design measures generalization, schema linking helps identify relevant database elements, constrained decoding helps form valid SQL, and content-grounded evaluation tests additional practical demands. These contributions complement one another. The coursework does not establish a working Text-to-SQL product or a Gemma/Phi/Qwen fine-tuning result. Building such a system requires source code, reproducible training or inference configuration, execution tests and independent held-out evaluation.
+This review supports a clear division of concerns: benchmark design measures generalization, schema linking helps identify relevant database elements, constrained decoding helps form valid SQL, and content-grounded evaluation tests additional practical demands. These contributions complement one another. The project does not establish a working Text-to-SQL product or a Gemma/Phi/Qwen fine-tuning result. Building such a system requires source code, reproducible training or inference configuration, execution tests and independent held-out evaluation.
 
 ## References
 

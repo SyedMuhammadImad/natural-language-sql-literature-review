@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "title": "Natural language SQL academic report",
+  "date": "2026-10-08",
+  "title": "Natural language SQL experimental report",
   "completion_gate_passed": true,
   "files": [
     {
@@ -10,18 +10,18 @@
     },
     {
       "path": "README.md",
-      "sha256": "6b223cc73b5fde67e43fefae2281a0e1d3e643a8790ec37eabc8596a4459ed25",
-      "bytes": 398
+      "sha256": "32c57e32483cc7508725769c5653dc3d3cc0e5c19f32272e49b36459cc62b6d6",
+      "bytes": 395
     },
     {
       "path": "review.md",
-      "sha256": "c7880befd3a3e90209fa7fc17d6f9064f0a49de661eee73a8f5641f6da8c8ac4",
-      "bytes": 5381
+      "sha256": "d9cdbe2211e4f5a928a6c17b5a58aebaa152ec963a5831eb0aa9ab30eb3dd874",
+      "bytes": 5376
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "2366f953c41ea0586555cff78721e50a82e4f6aba743e0c987422e3a27e3af8d",
-      "bytes": 629
+      "sha256": "7eccf3a9e31c69f25d8d674a5fcc7116eb41eb53e3cf148e42ba834f2796a620",
+      "bytes": 633
     }
   ]
 }
